@@ -4,10 +4,10 @@ Npm.depends({
 });
 
 Package.describe({
-  name: 'mxab:keycloak-oauth',
+  name: 'shayank:keycloak-oauth',
   version: '0.0.2',
   // Brief, one-line summary of the package.
-  summary: 'https://github.com/mxab/meteor-keycloak.git',
+  summary: 'https://github.com/shayank/meteor-keycloak.git',
   // URL to the Git repository containing the source code for this package.
   git: '',
   // By default, Meteor will default to using README.md for documentation.

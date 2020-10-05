@@ -1,7 +1,7 @@
 # Setup
 
 ```
-meteor add mxab:accounts-keycloak
+meteor add shayank:accounts-keycloak
 ```
 
 ## Local setup with docker
